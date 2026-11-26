@@ -8,4 +8,5 @@ The data was cleaned and handled in R and the prompts were written and construct
 
 The .html used to create the game was created fully by an AI LLM (specifically Gemini's Hydrogen model)
 
+The game can be played at: https://ryan-c-chandler.github.io/draftline/
 More information about the nascaR package can be found here: https://kylegrealis.github.io/nascaR.data/reference/series_data.html
